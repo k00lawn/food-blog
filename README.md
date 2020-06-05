@@ -1,6 +1,15 @@
-# RecipeApp
+# Recipe App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+## Clone repo
+
+`$ git clone https://github.com/k00lawn/food-blog.git` to your working directory
+`cd food-blog` to change to repo directory
+
+## NPM Install
+
+Run `npm install` to install npm modules
 
 ## Development server
 
