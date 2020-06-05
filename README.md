@@ -5,7 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Clone repo
 
 `$ git clone https://github.com/k00lawn/food-blog.git` to your working directory  
-`cd food-blog` to change to repo directory
+
+`$ cd food-blog` to change to repo directory
 
 ## NPM Install
 
