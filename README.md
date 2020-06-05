@@ -38,4 +38,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Bootstrap and CSS
 
-Please ignore the bootstrap lol. I didn't have much time to make it better. But if you have any ideas feel free to contribute.
+Please ignore the bootstrap. I didn't have much time to make it better. But if you have any ideas feel free to contribute.
